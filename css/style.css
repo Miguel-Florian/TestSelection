@@ -521,6 +521,7 @@ footer{
     flex-direction: row;
     gap: 1em;
     padding: 0.5%;
+    align-items: center;
 }
 .resume,.adresse{
     width: 30%;
